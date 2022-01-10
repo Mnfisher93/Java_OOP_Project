@@ -1,0 +1,5 @@
+1 Apple 1.00
+2 HotDog 2.00
+3 Banana 1.50
+4 CornDog 2.00
+5 BigBertha 5.00
